@@ -1,0 +1,12 @@
+name: logtest3
+on: push
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+      - run: |
+          git log --format=%B -n 3 || true
+          echo "---done---"
